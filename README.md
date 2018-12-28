@@ -10,7 +10,7 @@ PAYJS 针对个人主体提供微信支付接入能力，是经过检验的正�
 
 ## 使用方法
 
-引入PayJs.ec模块，详细查看 `PayJs-E-DEMO.e` 例程
+引入 `PayJs.ec` 模块，详细查看 `PayJs-E-DEMO.e` 例程
 
 ## DEMO
 
@@ -20,11 +20,11 @@ PAYJS 针对个人主体提供微信支付接入能力，是经过检验的正�
 ## 部分截图
 
 <p align="center">
-    <img src="https://payjs.cn/static/images/logo.png" width=80 />
+    <img src="https://github.com/nethuige/PayJs-E-SDK/blob/master/screenshots/demo.png" />
 </p>
 
 <p align="center">
-    <img src="https://payjs.cn/static/images/logo.png" width=80 />
+    <img src="https://github.com/nethuige/PayJs-E-SDK/blob/master/screenshots/ec.png" />
 </p>
 
 ## 当前版本
