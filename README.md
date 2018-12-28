@@ -14,8 +14,8 @@ PAYJS 针对个人主体提供微信支付接入能力，是经过检验的正�
 
 ## DEMO
 
-`PayJs-E-DEMO.e` 使用了E2EE支持库，没有安装的请自行安装
-`PayJs-E-DEMO.exe` 可直接运行测试
+> `PayJs-E-DEMO.e` 使用了E2EE支持库，没有安装的请自行安装
+> `PayJs-E-DEMO.exe` 可直接运行测试
 
 ## 部分截图
 
