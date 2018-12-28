@@ -1,7 +1,7 @@
 <p align="center">
     <img src="https://payjs.cn/static/images/logo.png" width=80 />
 </p>
-<h2 align="center">PAYJS E SDK</h2>
+<h2 align="center">PayJs E SDK</h2>
 
 ## 简介
 
